@@ -1,0 +1,64 @@
+{
+  "brokenTestObjects": [
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_Facebook  log in or sign up/a_Create new account",
+      "brokenLocator": "//a[@id\u003d\u0027u_0_0_DK\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//a[contains(text(),\u0027Create new account\u0027)]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/20240206_150324/FaceBook_TestSuite/FaceBook_TestSuite_RegistrationValidation_002/20240206_150324/Object Repository/Page_Facebook  log in or sign up/a_Create new account_link.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_Facebook  log in or sign up/input_concat(We couldn, , t create your acc_8e27d1",
+      "brokenLocator": "//input[@id\u003d\u0027u_4_b_pK\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//div/div/div/div/div/input",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/20240206_150324/FaceBook_TestSuite/FaceBook_TestSuite_RegistrationValidation_002/20240206_150324/Object Repository/Page_Facebook  log in or sign up/input_concat(We couldn, , t create your acc_8e27d1_position.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_Facebook  log in or sign up/input_concat(We couldn, , t create your acc_342d17",
+      "brokenLocator": "//input[@id\u003d\u0027u_4_d_OV\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//div/div/div[2]/div/div/input",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/20240206_150324/FaceBook_TestSuite/FaceBook_TestSuite_RegistrationValidation_002/20240206_150324/Object Repository/Page_Facebook  log in or sign up/input_concat(We couldn, , t create your acc_342d17_position.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_Facebook  log in or sign up/input_concat(We couldn, , t create your acc_554ec3",
+      "brokenLocator": "//input[@id\u003d\u0027u_4_g_FL\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//div[2]/div/div/input",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/20240206_150324/FaceBook_TestSuite/FaceBook_TestSuite_RegistrationValidation_002/20240206_150324/Object Repository/Page_Facebook  log in or sign up/input_concat(We couldn, , t create your acc_554ec3_position.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_Facebook  log in or sign up/label_Male",
+      "brokenLocator": "//span[@id\u003d\u0027u_4_o_sL\u0027]/span[2]/label",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Female\u0027])[1]/following::label[1]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/20240206_150324/FaceBook_TestSuite/FaceBook_TestSuite_RegistrationValidation_002/20240206_150324/Object Repository/Page_Facebook  log in or sign up/label_Male_neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_Facebook  log in or sign up/button_Sign Up",
+      "brokenLocator": "//button[@id\u003d\u0027u_4_s_Of\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//div[@id\u003d\u0027reg_form_box\u0027]/div[11]/button",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/20240206_150324/FaceBook_TestSuite/FaceBook_TestSuite_RegistrationValidation_002/20240206_150324/Object Repository/Page_Facebook  log in or sign up/button_Sign Up_idRelative.png"
+    }
+  ]
+}
